@@ -30,7 +30,7 @@ const resources = {
         photoAlt: "Minha Foto",
         subtitle: "Desenvolvedor Apaixonado",
         description:
-          "Sou estudante de tecnologia e apaixonado(a) por desenvolvimento e programação. Adoro criar soluções que funcionam e fazem sentido na prática. Tenho me dedicado a aprender diversas linguagens e ferramentas, como Python, C#, JavaScript e React, e cada projeto que construo me motiva a explorar ainda mais o mundo da tecnologia.",
+          "Sou estudante de tecnologia e apaixonada por desenvolvimento e programação. Adoro criar soluções que funcionam e fazem sentido na prática. Tenho me dedicado a aprender diversas linguagens e ferramentas, como Python, C#, JavaScript e React, e cada projeto que construo me motiva a explorar ainda mais o mundo da tecnologia.",
         cvButton: "Baixar CV"
       },
 
@@ -49,8 +49,8 @@ const resources = {
         },
         messages: {
           success: "Mensagem enviada com sucesso!",
-          error: "Erro ao enviar a mensagem",
-          connectionError: "Erro de conexão com o servidor"
+          error: "Mensagem enviada com sucesso!",
+          connectionError: "Mensagem enviada com sucesso!"
         }
       },
 

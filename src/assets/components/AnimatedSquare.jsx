@@ -14,10 +14,10 @@ const AnimatedSquare = ({ size = 8, duration = 10, delay = 0 }) => {
         height: `${size}px`,
         top: `${top}%`,
         left: `${left}%`,
-        backgroundColor: "#34d399", // Verde esmeralda combinando com o projeto
+        backgroundColor: "#34d399", 
         animation: `float ${duration}s ease-in-out ${delay}s infinite alternate`,
         transform: `translate(${moveX}px, ${moveY}px)`,
-        boxShadow: "0 0 8px #34d399, 0 0 16px #34d399", // leve brilho
+        boxShadow: "0 0 8px #34d399, 0 0 16px #34d399", 
       }}
     ></div>
   );
