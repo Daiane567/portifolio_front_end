@@ -75,9 +75,9 @@ const resources = {
             titulo: "Login",
             descricao: "Login em React e Node.js."
           },
-          game: {
-            titulo: "Game",
-            descricao: "Plataforma de jogos em React e Python."
+          lista: {
+            titulo: "Lista",
+            descricao: "Um aplicativo web para gerenciar tarefas, permitindo criar, atualizar, deletar e listar tarefas. Possui back-end em Python com FastAPI e front-end em React."
           }
         },
         certificados: {
@@ -174,9 +174,9 @@ const resources = {
             titulo: "Login",
             descricao: "Login system in React and Node.js."
           },
-          game: {
-            titulo: "Game",
-            descricao: "Gaming platform in React and Python."
+          lista: {
+            titulo: "To-Do List",
+            descricao: "A web application for managing tasks, allowing users to create, update, delete, and list tasksIt features a Python FastAPI back-end and a React front-end"
           }
         },
         certificados: {

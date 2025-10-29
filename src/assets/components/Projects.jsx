@@ -11,6 +11,8 @@ import Pet from '../../img/pet.png';
 import Descart from '../../img/descart.png';
 import Login from '../../img/login.png';
 import Jogo from '../../img/jogo.png';
+import Lista from '../../img/lista.png';
+
 
 // --- Dados simulados ---
 const projetos = [
@@ -30,9 +32,9 @@ const projetos = [
     imagem: Login,
   },
   {
-    key: "game",
-    url: "https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e4-proj-infra-t3-games.git",
-    imagem: Jogo,
+    key: "lista",
+    url: "https://taskhub-n91gzf9g8-daianes-projects-4a04bd25.vercel.app/",
+    imagem: Lista,
   },
 ];
 
